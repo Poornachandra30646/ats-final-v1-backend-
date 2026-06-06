@@ -24,8 +24,7 @@ app.use(
     origin: [
       "http://localhost:3000",
       "http://localhost:3001",
-      "https://agent-6a22e2e225302d507243d842--ats-frontend-v1.netlify.app",
-      "https://agent-6a22e57061167a00c77ef58d--ats-admin-v1.netlify.app"
+      "https://ats-frontend-v1-git-main-poornachandras-projects-88539c3c.vercel.app"
     ],
     credentials: true
   })
